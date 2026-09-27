@@ -76,7 +76,7 @@ npm install
 Create a `.env` file in the root directory (or use the provided template):
 ```env
 PORT=5000
-MONGO_URI=mongodb://127.0.0.1:27017/ai_faq_assistant
+MONGO_URI=YOUR_URI
 JWT_SECRET=your_jwt_secret_key_here_must_be_long_and_secure
 GEMINI_API_KEY=your_google_gemini_api_key_here
 ```
